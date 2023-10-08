@@ -1,0 +1,2 @@
+for filename in butternut-squash-soup?.webp; do echo "mv $filename ${filename%-.webp}.webp"; done
+

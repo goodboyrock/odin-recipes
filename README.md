@@ -19,3 +19,6 @@ The aim is to demonstrate, first and foremost, and to myself, how to create
 proper .html documents with textbook boilerplates and the core contents
 that allow its functioning, by making this project work. 
 Ok, here goes.
+
+Images sourced are not mine and used from other websites. A fair amount are
+sourced from google images, and most from AllRecipes, where the basic .html documents in links referred to in the index.html file draws their recipes from.
