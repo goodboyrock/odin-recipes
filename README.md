@@ -16,9 +16,11 @@ of a .html document, boilerplate, and the contents of said document,
 and the sourcing of image elements.
 
 The aim is to demonstrate, first and foremost, and to myself, how to create
-proper .html documents with textbook boilerplates and the core contents
-that allow its functioning, by making this project work. 
+proper .html documents with textbook boilerplates and the rudimentary core contents
+that allow its functioning, in order to create a multipage website with individual, but linked, web pages - with the context of a recipe website with individual recipes in their own specific web pages.
 Ok, here goes.
 
-Images sourced are not mine and used from other websites. A fair amount are
-sourced from google images, and most from AllRecipes, where the basic .html documents in links referred to in the index.html file draws their recipes from.
+DISCLAIMER:
+Images sourced are not mine and used from other websites - 
+sourced from results on Google Images, and from AllRecipes, where the basic .html documents in links referred to in the index.html file draws their recipes from. The recipes created are also not mine, and derived from AllRecipes. Credits for the recipes in steps and ingredients, and some images used in the web pages, go to the original users that created the recipes
+on said AllRecipes, and to AllRecipes themselves for some of the media provided. 
